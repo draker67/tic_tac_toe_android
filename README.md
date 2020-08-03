@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 # Screenshots
 
-![main_screen](github.com/draker67/tic_tac_toe_android/blob/master/main.png)
+![main_screen](https://github.com/draker67/tic_tac_toe_android/blob/master/main.png?raw=true)
