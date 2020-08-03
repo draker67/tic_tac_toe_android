@@ -16,5 +16,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 # Screenshots
-
-![main_screen](https://github.com/draker67/tic_tac_toe_android/blob/master/main.png?raw=true)
+<img src="https://github.com/draker67/tic_tac_toe_android/blob/master/main.png" width="100"/>
