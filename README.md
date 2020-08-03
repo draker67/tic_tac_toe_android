@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 # Screenshots
 
-<div padding="25px>
+<div style="padding:25px">
   <img src="https://github.com/draker67/tic_tac_toe_android/blob/master/main.png" width="200"/> 
   <img src="https://github.com/draker67/tic_tac_toe_android/blob/master/home.png" width="200"/>
   <img src="https://github.com/draker67/tic_tac_toe_android/blob/master/win.png" width="200"/>
